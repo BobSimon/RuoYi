@@ -4,9 +4,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
     #url: jdbc:mysql://10.213.24.45:3306/ry?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true
-    url: jdbc:mysql://120.77.168.166:3306/ry?useSSL=true&verifyServerCertificate=false&tinyInt1isBit=false&useUnicode=true&characterEncoding=utf8
-    username: steven
-    password: 6KpynJ00n2tZO&Aqt
+    url: jdbc:mysql://xxx.xxx.xxxx.xxx:3306/ry?useSSL=true&verifyServerCertificate=false&tinyInt1isBit=false&useUnicode=true&characterEncoding=utf8
+    username: xxxxxx
+    password: xxxx
     # 初始化大小，最小，最大
     initialSize: 1
     minIdle: 3
