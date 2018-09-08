@@ -41,6 +41,17 @@ http://webapplayers.com/inspinia_admin-v2.7.1
     </tr>
 </table>
 
+![avatar](/img/1.png)
+
+![avatar](/img/2.png)
+
+![avatar](/img/3.png)
+
+![avatar](/img/4.png)
+
+![avatar](/img/5.png)
+
+![avatar](/img/6.png)
 
 ## 若依交流群
 
