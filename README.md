@@ -39,9 +39,6 @@ http://webapplayers.com/inspinia_admin-v2.7.1
     <tr>
         <td><img src="https://ruoyi-1256174062.cos.ap-guangzhou.myqcloud.com/%E8%8B%A5%E4%BE%9D2.0/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png"/></td>
     </tr>
-	<tr>
-        <td><img src="https://ruoyi-1256174062.cos.ap-guangzhou.myqcloud.com/%E8%8B%A5%E4%BE%9D2.0/%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3.png"/></td>
-    </tr>
 </table>
 
 

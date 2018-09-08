@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91c47e34-2647-4657-add9-e35475c3419b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="387">
+              <first_editor relative-caret-position="471">
                 <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               </first_editor>
               <second_editor />
@@ -353,12 +352,12 @@
       <workItem from="1532561398557" duration="4326000" />
       <workItem from="1534995956374" duration="8484000" />
       <workItem from="1535067184423" duration="615000" />
-      <workItem from="1536389910630" duration="1177000" />
+      <workItem from="1536389910630" duration="1262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40844000" />
+    <option name="totallyTimeSpent" value="40929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,8 +392,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90772533" weight="0.60786515" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Spring" order="7" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.712036" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.2532189" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -816,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="387">
+          <first_editor relative-caret-position="471">
             <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           </first_editor>
           <second_editor />
